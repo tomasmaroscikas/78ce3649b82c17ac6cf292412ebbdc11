@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T15:46:01.305Z" agent="5.0 (Windows)" etag="E7oyEd_7f4V-MfUvH-fQ" version="15.9.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-08T17:11:41.968Z" agent="5.0 (Windows)" etag="AoSlbJ8Wo0pjAicVguSE" version="15.9.4" type="github" pages="7">
   <diagram id="PcJuz98N13SLjpPPVnWp" name="Process flow">
     <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="8BcugqnqF1SZGkXuQShD-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8BcugqnqF1SZGkXuQShD-1" source="8BcugqnqF1SZGkXuQShD-6" target="8BcugqnqF1SZGkXuQShD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8BcugqnqF1SZGkXuQShD-6" value="Collect data from third parties" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8BcugqnqF1SZGkXuQShD-1" vertex="1">
+        <mxCell id="8BcugqnqF1SZGkXuQShD-6" value="Collect user data from various platforms" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8BcugqnqF1SZGkXuQShD-1" vertex="1">
           <mxGeometry x="485" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8BcugqnqF1SZGkXuQShD-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8BcugqnqF1SZGkXuQShD-1" source="8BcugqnqF1SZGkXuQShD-8" target="8BcugqnqF1SZGkXuQShD-6" edge="1">
